@@ -1,0 +1,30 @@
+.navbar_container{
+    margin: 0px;
+    padding-bottom: 10px;
+    width: 100% !important;
+    background: #3E3E3E !important;
+    background-color: #3E3E3E;
+    border-bottom: solid gray 1vh;
+    height: 22.5vh;
+}
+
+.navbar_heading{
+    color: white;
+    text-align: center;
+    font-size: 1em;
+}
+
+.navbar_image{
+    display: block;
+    margin: auto;
+    background-color: #3E3E3E;
+    width: 10vw;
+    height: 15vh;
+    padding: 0px;
+    border: none;
+}
+
+.navbar_image:hover{
+    cursor: pointer;
+    border: solid gray 3px;
+}

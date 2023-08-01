@@ -1,0 +1,131 @@
+.profile_container{
+    background-color: #3E3E3E;
+    min-height: 80vh;
+    max-height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.biography_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.biography_card{
+    color: white;
+    background-color: #3E3E3E;
+    border: solid gray thick;
+}
+
+.biography_card .top_grid{
+    height: fit-content;
+}
+
+.biography_portrait{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.biography_title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    border: solid rgb(33, 33, 33) thick;
+}
+
+.biography_subtitle{
+    text-align: center;
+    text-decoration: underline;
+    padding: 20px;
+}
+
+.biography_text{
+    padding: 5px;
+    background-color: rgb(33, 33, 33);
+    border-radius: 5px;
+}
+
+.about_btn{
+    background-color: gray;
+    display: block;
+    margin: auto;
+    border: none;
+}
+
+.about_btn:hover{
+    color: gold;
+    background-color: rebeccapurple;
+}
+
+.about_btn:active{
+    color: goldenrod !important;
+    background-color: rebeccapurple !important;   
+}
+
+
+.tool_title{
+    color: white;
+    text-align: center;
+}
+
+.tool_row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tool_col{
+    margin: 5px;
+}
+
+.tool_image{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 10vh;
+}
+
+.contact_row{
+    margin: 5px;
+}
+
+.contact_card{
+    margin: 0px;
+    color: white;
+    background-color: #3E3E3E;
+    border: solid gray thick;
+}
+
+.contact_title{
+    color: white;
+    text-align: center;
+}
+
+.contact_list{
+    padding: 10px;
+    background: rgb(33, 33, 33) !important;
+    list-style: disc;
+}
+
+.contact_item{
+    margin: 2.5px;
+    color: white;
+    background-color: gray;
+    border: none;
+    list-style-type: disc;
+    border-left: solid rgb(75, 75, 75) thick;
+}
+
+.contact_item:hover{
+    background-color: rebeccapurple;
+    cursor: pointer;
+    color: gold;
+}   
+
+
+

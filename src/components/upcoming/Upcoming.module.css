@@ -1,0 +1,19 @@
+.tool_container{
+    background-color: #3E3E3E;
+    margin: 0px;
+    min-height: 80vh;
+}
+
+.container_title{
+    color: white;
+    text-align: center;
+}
+
+.tool_image{
+    display: block;
+    margin: auto;
+    width: 30vw;
+    height: 40vh;
+    max-width: 200px;
+    max-height: 200px;
+}

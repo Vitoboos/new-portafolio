@@ -1,0 +1,16 @@
+.projects_container{
+    background-color: #3E3E3E;
+    margin: 0px;
+}
+
+.container_title{
+    color: white;
+    text-align: center;
+}
+
+.project_image{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}

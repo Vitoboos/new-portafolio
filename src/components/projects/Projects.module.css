@@ -1,0 +1,77 @@
+.projects_container{
+    background-color: #3E3E3E;
+}
+
+.container_title{
+    color: white;
+    text-align: center;
+}
+
+.project_image{
+    width: 100%;
+    height: 100vh;
+}
+
+.projects_carousel{
+    padding: 5px;
+}
+
+.project_caption{
+    background-color: rgb(62, 62, 62, 0.80);
+}
+
+.project_caption:hover{
+    background-color: rgb(62, 62, 62, 1);
+}
+
+.project_btn{
+    display: block;
+    margin: auto;
+    background-color: gray;
+    border: none;
+}
+
+.project_btn:hover{
+    color: gold;
+    background-color: rebeccapurple;
+}
+
+.project_btn:active{
+    color: goldenrod !important;
+    background-color: rebeccapurple !important;
+}
+
+.viewall{
+    background-color: gray;
+    display: block;
+    margin: auto;
+    border: none;
+    text-decoration: none;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.viewall .link{
+    color: white;
+    text-decoration: none;
+}
+
+.viewall .link:hover{
+    color: gold;
+}
+
+.viewall .link:active{
+    color: goldenrod;
+}
+
+.viewall:hover{
+    color: gold;
+    background-color: rebeccapurple;
+}
+
+.viewall:active{
+    color: goldenrod !important;
+    background-color: rebeccapurple !important;   
+}
