@@ -43,9 +43,8 @@ export default function Profile() {
                 <Card.Subtitle className={styles.biography_subtitle}> Junior Front-End Developer </Card.Subtitle>
                 <Card.Text className={styles.biography_text}>
                     I am well versed in front-end development and have worked with frameworks such as 
-                    React and Django, I have experience dealing with Python and building desktop 
-                    apps with Tkinter, Electron and .NET. I am a natural leader, mediator, 
-                    passionate worker who enjoys problem solving and learning new skills. 
+                    React, Angular and Django, I have experience dealing with Python and building desktop 
+                    apps with Tkinter. I enjoy problem solving and learning new skills. 
                     My hobbies include reading history and playing videogames.
                 </Card.Text>
                 {/* <Button className={styles.about_btn} variant="primary"> About me </Button> */}
